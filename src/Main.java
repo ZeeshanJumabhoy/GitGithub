@@ -12,6 +12,13 @@ class multiply{
         System.out.println(a*b);
     }
 }
+class subtraction{
+    public subtraction(){
+        int a=7;
+        int b=9;
+        System.out.println(b-a);
+    }
+}
 
 public class Main {
     public static void main(String[] args) {
